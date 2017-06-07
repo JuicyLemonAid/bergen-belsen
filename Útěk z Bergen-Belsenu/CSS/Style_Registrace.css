@@ -1,0 +1,49 @@
+#h1{
+    font-size:50;
+    background-color:#d9b3ff;
+    border:1px solid black;
+}
+
+body{
+    background-color:#d9b3ff;
+    margin:20px;
+    
+}
+
+.table1{
+    border:2px inset black;
+    border-color:orange;
+    
+}
+.table2{
+    border:2px inset black;
+    border-color:orange;
+
+}
+.table3{
+    border:2px inset black;
+    border-color:orange;
+}
+
+#p1 {
+    
+    font-size:30;
+    
+}
+img{
+    margin-left:50px;
+     margin-top:0px;
+}
+
+div{
+    display:inline-block;
+     margin-left:20px;
+    margin-bottom:30px;
+}
+
+
+
+
+
+
+
